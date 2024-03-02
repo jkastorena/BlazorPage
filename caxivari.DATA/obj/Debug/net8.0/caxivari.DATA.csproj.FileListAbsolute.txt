@@ -1,0 +1,14 @@
+/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.DATA/bin/Debug/net8.0/caxivari.DATA.deps.json
+/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.DATA/bin/Debug/net8.0/caxivari.DATA.dll
+/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.DATA/bin/Debug/net8.0/caxivari.DATA.pdb
+/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.DATA/obj/Debug/net8.0/caxivari.DATA.GeneratedMSBuildEditorConfig.editorconfig
+/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.DATA/obj/Debug/net8.0/caxivari.DATA.AssemblyInfoInputs.cache
+/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.DATA/obj/Debug/net8.0/caxivari.DATA.AssemblyInfo.cs
+/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.DATA/obj/Debug/net8.0/caxivari.DATA.csproj.CoreCompileInputs.cache
+/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.DATA/obj/Debug/net8.0/caxivari.DATA.dll
+/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.DATA/obj/Debug/net8.0/refint/caxivari.DATA.dll
+/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.DATA/obj/Debug/net8.0/caxivari.DATA.pdb
+/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.DATA/obj/Debug/net8.0/ref/caxivari.DATA.dll
+/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.DATA/bin/Debug/net8.0/caxivari.DATA.runtimeconfig.json
+/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.DATA/obj/Debug/net8.0/caxivari.DATA.csproj.AssemblyReference.cache
+/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.DATA/obj/Debug/net8.0/caxivari.DATA.genruntimeconfig.cache
