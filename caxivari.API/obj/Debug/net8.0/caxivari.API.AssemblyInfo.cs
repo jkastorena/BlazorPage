@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("caxivari.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9185f62a535efcb374915ab1e5b6d87054ef203d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb2c0f15bace22eb2b7a3af39faa0812b7e75f5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("caxivari.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("caxivari.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

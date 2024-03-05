@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.API/caxivari.API.csproj": {}
+    "/media/kruel00/data/Repos/C#/Caxivari_cs/caxivari.API/caxivari.API.csproj": {}
   },
   "projects": {
-    "/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.API/caxivari.API.csproj": {
+    "/media/kruel00/data/Repos/C#/Caxivari_cs/caxivari.API/caxivari.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.API/caxivari.API.csproj",
+        "projectUniqueName": "/media/kruel00/data/Repos/C#/Caxivari_cs/caxivari.API/caxivari.API.csproj",
         "projectName": "caxivari.API",
-        "projectPath": "/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.API/caxivari.API.csproj",
+        "projectPath": "/media/kruel00/data/Repos/C#/Caxivari_cs/caxivari.API/caxivari.API.csproj",
         "packagesPath": "/home/kruel00/.nuget/packages/",
-        "outputPath": "/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.API/obj/",
+        "outputPath": "/media/kruel00/data/Repos/C#/Caxivari_cs/caxivari.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kruel00/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.DATA/caxivari.DATA.csproj": {
-                "projectPath": "/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.DATA/caxivari.DATA.csproj"
+              "/media/kruel00/data/Repos/C#/Caxivari_cs/caxivari.DATA/caxivari.DATA.csproj": {
+                "projectPath": "/media/kruel00/data/Repos/C#/Caxivari_cs/caxivari.DATA/caxivari.DATA.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.DATA/caxivari.DATA.csproj": {
+    "/media/kruel00/data/Repos/C#/Caxivari_cs/caxivari.DATA/caxivari.DATA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.DATA/caxivari.DATA.csproj",
+        "projectUniqueName": "/media/kruel00/data/Repos/C#/Caxivari_cs/caxivari.DATA/caxivari.DATA.csproj",
         "projectName": "caxivari.DATA",
-        "projectPath": "/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.DATA/caxivari.DATA.csproj",
+        "projectPath": "/media/kruel00/data/Repos/C#/Caxivari_cs/caxivari.DATA/caxivari.DATA.csproj",
         "packagesPath": "/home/kruel00/.nuget/packages/",
-        "outputPath": "/media/kruel00/F6CEB652CEB60ABF/Repos/C#/Caxivari_cs/caxivari.DATA/obj/",
+        "outputPath": "/media/kruel00/data/Repos/C#/Caxivari_cs/caxivari.DATA/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kruel00/.nuget/NuGet/NuGet.Config"

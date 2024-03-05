@@ -16,7 +16,7 @@ namespace MyApp.Namespace
         }
 
         [HttpGet]
-        public ActionResult<List<Person>> PersonGetAll()
+        public ActionResult<IEnumerable<Person>> PersonGetAll()
         {
             return _context.Persons.ToList();
         }
